@@ -15,6 +15,7 @@ public class Innherittest {
         A b = new B();
         b.run();
 
+        B c = new B();
     }
 
 
